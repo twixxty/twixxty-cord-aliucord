@@ -1,0 +1,65 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "twixxtycord (no bg)"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/back.png"
+    },
+    "fonts": {
+        "ginto_medium": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/StackSansNotch-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/StackSansNotch-Regular.ttf",
+        "ginto_bold": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/StackSansNotch-Bold.ttf",
+        "*": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/Poppins-Regular.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/GoogleSansCode_Proportional-Regular.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/GoogleSansCode_Proportional-Regular.ttf",
+        "whitney_bold": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/StackSansNotch-Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/Poppins-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/Poppins-Bold.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 1577753,
+        "background_secondary": -16053493,
+        "background": -14342875,
+        "mention_highlight": 201055926,
+        "accent": -12105913,
+        "active_channel": -12105913,
+        "input_background": -12105913
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -8361387,
+        "primary_dark_200": -2434342,
+        "primary_dark_360": -2565928,
+        "white_800": -16053493,
+        "brand_new_360": -5000269,
+        "link": -1051137,
+        "primary_dark_300": -2565928,
+        "brand_new_260": -1,
+        "uikit_settings_item_text_color_light": -9211021,
+        "white_500": -2434342,
+        "white": -2631721,
+        "status_grey_200": -2434342,
+        "dim_foreground_material_light": -16777216,
+        "primary_300": -11184811,
+        "primary_dark_660": -15066598,
+        "uikit_settings_item_text_color_dark": -2565928
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12171706,
+        "drawable_overlay_channels_selected_dark": -12105913,
+        "drawable_open_folder_dark": -14013910,
+        "ic_channel_text": -2434342,
+        "ic_channel_announcements": -2434342,
+        "ic_channel_announcements_locked": -2434342,
+        "ic_channel_announcements_nsfw": -2434342,
+        "ic_channel_announcements_thread": -2434342,
+        "ic_channel_announcements_thread_locked": -2434342,
+        "ic_channel_announcements_thread_nsfw": -2434342,
+        "ic_channel_pinned_message": -2434342,
+        "ic_channel_voice": -2434342,
+        "ic_channel_voice_locked": -2434342
+    },
+    "raws": {}
+}
