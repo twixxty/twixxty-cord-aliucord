@@ -2,7 +2,8 @@
     "manifest": {
         "author": "twixxty",
         "version": "1.0.0",
-        "name": "twixxtycord"
+        "name": "twixxtycord",
+        "updater": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/twixxtycord.json"
     },
     "background": {
         "url": "https:\/\/github.com\/twixxty\/twixxty-cord-aliucord\/raw\/refs\/heads\/main\/background.png",
